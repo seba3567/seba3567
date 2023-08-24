@@ -10,9 +10,9 @@
 
 <a href="https://github.com/[TU_USUARIO]"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-Hola👋, soy Sebastián Muñoz, Desarrollador ~~FreeLance~~<br>
+Hola👋, soy Sebastián Muñoz, Desarrollador ~~FreeLance~~ And ~~Front-end~~<br>
 
-Soy desarrollador de software en tecnologías backend y frontend, Entusiaste amante del codigo abierto realizo proyectos de desarrollo web como de software ya sea de computadora o de movil .
+Soy desarrollador de software en tecnologías backend y frontend, Entusiaste amante del codigo abierto realizo proyectos de desarrollo web como de software ya sea de computadora o de movil y otras plataformas menores o de poco uso .
 
 
 ### Sistema operativo
@@ -34,19 +34,30 @@ Soy desarrollador de software en tecnologías backend y frontend, Entusiaste ama
 #### Backend
 
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
+![React](https://img.shields.io/badge/-react-05122A?style=flat&logo=React)&nbsp;
+![Angular](https://img.shields.io/badge/-angular-05122A?style=flat&logo=Angular)&nbsp;
+
+
+#### Data base
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![MariaDB](https://img.shields.io/badge/-Mariadb-05122A?style=flat&logo=mariadb)&nbsp;
+
 
 #### Servicios
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
 ![Oracle Cloud](https://img.shields.io/badge/-Oracle_Cloud-05122A?style=flat&logo=oracle)&nbsp;
+![Google Colab](https://img.shields.io/badge/-GoogleColab-05122A?style=flat&logo=Google-colab)&nbsp;
 
 #### Herramientas
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
 ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
+![VisualStudio](https://img.shields.io/badge/-Visualstudio-05122A?style=flat&logo=visualstudio)&nbsp;
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=Androidstudio)&nbsp;
 
 </body>
