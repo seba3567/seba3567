@@ -12,7 +12,7 @@
 
 Hola👋, soy Sebastián Muñoz, Desarrollador ~~FreeLance~~ And ~~Front-end~~<br>
 
-Soy desarrollador de software en tecnologías backend y frontend, Entusiaste amante del codigo abierto realizo proyectos de desarrollo web como de software ya sea de computadora o de movil y otras plataformas menores o de poco uso .
+Soy desarrollador de software en tecnologías backend y frontend, Entusiaste amante del codigo abierto.
 
 
 ### Sistema operativo
