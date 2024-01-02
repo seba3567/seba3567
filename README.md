@@ -10,7 +10,7 @@
 
 <a href="https://github.com/[TU_USUARIO]"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-Hola👋, soy Sebastián Muñoz, Desarrollador ~~FreeLance~~ And ~~Front-end~~<br>
+Hola👋, soy Sebastián Muñoz<br>
 
 Soy desarrollador de software en tecnologías backend y frontend, Entusiaste amante del codigo abierto.
 
