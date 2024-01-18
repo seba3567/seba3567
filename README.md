@@ -57,7 +57,13 @@ Soy desarrollador de software en tecnologías backend y frontend, Entusiaste ama
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
 ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
-![VisualStudio](https://img.shields.io/badge/-Visualstudio-05122A?style=flat&logo=visualstudio)&nbsp;
+![VisualStudio](https://img.shields.io/badge/-Visualstudio-05122A?style=flat&logo=visualstudio)&nbsp;  
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=Androidstudio)&nbsp;
+
+#### Organizaciones
+![github](https://img.shields.io/badge/Custom-Redirect-success?style=flat&logo=github&link=https://github.com/Duouc-Inginformatica)]&nbsp;
+
+
+
 
 </body>
