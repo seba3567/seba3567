@@ -61,7 +61,7 @@ Soy desarrollador de software en tecnologías backend y frontend, Entusiaste ama
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=Androidstudio)&nbsp;
 
 #### Organizaciones
-![github](https://img.shields.io/badge/Custom-Redirect-success?style=flat&logo=github&link=https://github.com/Duouc-Inginformatica)]&nbsp;
+!["DuoUC"](https://img.shields.io/badge/Custom-Redirect-success?style=flat&logo=github&link=https://github.com/Duouc-Inginformatica)]&nbsp;
 
 
 
