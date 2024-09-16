@@ -10,12 +10,12 @@
 
 <a href="https://github.com/[TU_USUARIO]"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-Hola👋, soy Sebastián Muñoz<br>
+Hola👋z<br>
 
-Soy desarrollador de software en tecnologías backend y frontend, Entusiaste amante del codigo abierto.
+Soy desarrollador junior de software en tecnologías backend y frontend, Entusiasta amante del código abierto..
 
 
-### Sistema operativo
+### Sistema operativos
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows)&nbsp;&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
