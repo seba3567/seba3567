@@ -10,7 +10,7 @@
 
 <a href="https://github.com/[TU_USUARIO]"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-Hola👋z<br>
+Hola👋<br>
 
 Soy desarrollador junior de software en tecnologías backend y frontend, Entusiasta amante del código abierto..
 
