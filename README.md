@@ -1,69 +1,134 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+# Ingeniero de Software Especializado en Datos
 
-<body style="background-color:WhiteSmoke;">
-
-<h1 align="center">👇 BIENVENIDO A MI PERFIL DE GITHUB 👇 </h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=5C85DE&center=true&vCenter=true&random=false&width=600&height=70&lines=Ciencia+de+Datos;Arquitectura+Backend;Análisis+Avanzado;Desarrollo+de+Software" alt="Typing SVG">
+</div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&pause=1600&color=96ffbe&center=true&width=600&height=80&lines=Hola+mundo+👋">
+  <a href="https://github.com/seba3567?tab=repositories">
+    <img src="https://img.shields.io/badge/PROYECTOS-5C85DE?style=for-the-badge&logo=github&logoColor=white" alt="Proyectos">
+  </a>
+  <a href="https://github.com/DuoucInginformatica">
+    <img src="https://img.shields.io/badge/ORGANIZACIÓN-4A67BD?style=for-the-badge&logo=github&logoColor=white" alt="Organización">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/PORTAFOLIO-395399?style=for-the-badge&logo=react&logoColor=white" alt="Portafolio">
+  </a>
 </p>
 
-<a href="https://github.com/[TU_USUARIO]"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+## 👨‍💻 Sobre mí
 
-Hola👋<br>
+```typescript
+const sobreMi = {
+  especialización: ["Ciencia de Datos", "Desarrollo Backend", "QA"],
+  educación: {
+    grado: "Ingeniería en Informática",
+    institución: "DuocUC",
+    especialización: "Ciencia de Datos (2025)",
+  },
+  experiencia: ["IBM", "Soluciones de Seguridad", "Retail Tech"],
+  idiomas: ["Español (Nativo)", "Inglés (Intermedio-Alto)"],
+  pasión: "Transformar datos en soluciones de negocio con código limpio"
+};
+```
 
-Soy desarrollador junior de software en tecnologías backend y frontend, Entusiasta amante del código abierto..
+## 🛠️ Tech Stack
 
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65">
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65">
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65">
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65">
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65">
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65">
+      <br>Docker
+    </td>
+  </tr>
+</table>
 
-### Sistema operativos
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows)&nbsp;&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
-![Archlinux](https://img.shields.io/badge/-Archlinux-05122A?style=flat&logo=archlinux)&nbsp;
-![Fedora](https://img.shields.io/badge/-Fedora-05122A?style=flat&logo=fedora)&nbsp;
-<br>
-### Lenguajes informaticos
+## 📊 Especialidades
 
-#### Frontend
+<div class="skills-container">
+  <div class="skill-category">
+    <h3>🔍 Ciencia de Datos</h3>
+    <ul>
+      <li>Inteligencia de Negocios</li>
+      <li>Modelado y Análisis de Datos</li>
+      <li>Visualización de Datos</li>
+      <li>Análisis Estadístico</li>
+    </ul>
+  </div>
 
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+  <div class="skill-category">
+    <h3>💻 Desarrollo</h3>
+    <ul>
+      <li>Arquitectura de Software</li>
+      <li>Aseguramiento de Calidad</li>
+      <li>Control de Versiones</li>
+      <li>Sistemas Linux/Windows</li>
+    </ul>
+  </div>
 
-#### Backend
+  <div class="skill-category">
+    <h3>📈 Gestión</h3>
+    <ul>
+      <li>Metodologías Ágiles/Scrum</li>
+      <li>Análisis de Requerimientos</li>
+      <li>Gestión de Proyectos TI</li>
+      <li>Documentación Técnica</li>
+    </ul>
+  </div>
+</div>
 
-![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
-![React](https://img.shields.io/badge/-react-05122A?style=flat&logo=React)&nbsp;
-![Angular](https://img.shields.io/badge/-angular-05122A?style=flat&logo=Angular)&nbsp;
+## 🚀 Proyectos Destacados
 
+<a href="https://github.com/seba3567/proyecto-analisis-datos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seba3567&repo=proyecto-analisis-datos&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/seba3567/sistema-seguridad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seba3567&repo=sistema-seguridad&theme=tokyonight&hide_border=true" />
+</a>
 
-#### Data base
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![MariaDB](https://img.shields.io/badge/-Mariadb-05122A?style=flat&logo=mariadb)&nbsp;
+## 🧠 Enfoque Profesional
 
+```mermaid
+graph LR
+    A[Análisis] --> B[Diseño]
+    B --> C[Implementación]
+    C --> D[Testing]
+    D --> E[Optimización]
+    E --> A
+    style A fill:#5C85DE,stroke:#4A67BD,color:white
+    style B fill:#5C85DE,stroke:#4A67BD,color:white
+    style C fill:#5C85DE,stroke:#4A67BD,color:white
+    style D fill:#5C85DE,stroke:#4A67BD,color:white
+    style E fill:#5C85DE,stroke:#4A67BD,color:white
+```
 
-#### Servicios
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
-![Oracle Cloud](https://img.shields.io/badge/-Oracle_Cloud-05122A?style=flat&logo=oracle)&nbsp;
-![Google Colab](https://img.shields.io/badge/-GoogleColab-05122A?style=flat&logo=Google-colab)&nbsp;
+## 📈 Estadísticas GitHub
 
-#### Herramientas
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seba3567&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seba3567&layout=compact&hide_border=true&theme=tokyonight" />
+</div>
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
-![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
-![VisualStudio](https://img.shields.io/badge/-Visualstudio-05122A?style=flat&logo=visualstudio)&nbsp;  
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=Androidstudio)&nbsp;
-
-#### Organizaciones
-[![Your Custom Text](https://img.shields.io/badge/Custom-Redirect-success?style=flat&logo=github&link=https://github.com/Duouc-Inginformatica)](https://github.com/Duouc-Inginformatica)
-
-
-
-
-</body>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%">
+</p>
