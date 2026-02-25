@@ -17,11 +17,11 @@
 </p>
 
 <p align="center">
-  <a href="#-propuesta-de-valor">Valor</a> •
-  <a href="#-stack-principal">Stack</a> •
-  <a href="#-proyectos-destacados">Proyectos</a> •
-  <a href="#-m%C3%A9tricas-p%C3%BAblicas">Métricas</a> •
-  <a href="#-colaboraci%C3%B3n">Colaboración</a>
+  <a href="#propuesta-de-valor">Valor</a> •
+  <a href="#stack-principal">Stack</a> •
+  <a href="#proyectos-destacados">Proyectos</a> •
+  <a href="#estad%C3%ADsticas-de-github">Estadísticas</a> •
+  <a href="#colaboraci%C3%B3n">Colaboración</a>
 </p>
 
 ## 🎯 Propuesta de valor
@@ -78,12 +78,9 @@ Ingeniero en Informática orientado a resultados de negocio, combinando **análi
 
 ## 🚀 Proyectos destacados
 
-<a href="https://github.com/seba3567/proyecto-analisis-datos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seba3567&repo=proyecto-analisis-datos&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/seba3567/sistema-seguridad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seba3567&repo=sistema-seguridad&theme=tokyonight&hide_border=true" />
-</a>
+- [proyecto-analisis-datos](https://github.com/seba3567/proyecto-analisis-datos): análisis y visualización para soporte de decisiones.
+- [sistema-seguridad](https://github.com/seba3567/sistema-seguridad): backend modular con foco en confiabilidad y QA.
+- [Ver todos mis repositorios](https://github.com/seba3567?tab=repositories).
 
 ### Caso 1 · Analítica de datos
 - **Problema:** dispersión de datos y baja visibilidad para toma de decisiones.
@@ -106,12 +103,19 @@ flowchart LR
     E --> F[Iteración]
 ```
 
-## 📈 Métricas públicas
+## 📈 Actividad en GitHub
 
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=seba3567&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seba3567&layout=compact&hide_border=true&theme=tokyonight" />
-</div>
+<p align="center">
+  <a href="https://github.com/seba3567?tab=followers">
+    <img src="https://img.shields.io/github/followers/seba3567?label=Seguidores&style=for-the-badge" alt="Seguidores de GitHub">
+  </a>
+  <a href="https://github.com/seba3567?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositorios-Ver%20todos-5C85DE?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorios">
+  </a>
+  <a href="https://github.com/seba3567">
+    <img src="https://img.shields.io/badge/Perfil-GitHub-4A67BD?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub">
+  </a>
+</p>
 
 ## 🤝 Colaboración
 
