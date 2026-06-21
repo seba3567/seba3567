@@ -31,7 +31,7 @@ Ingeniero en Informática orientado a resultados de negocio, combinando **análi
 ## 👨‍💻 Perfil profesional
 
 - Especialización: Ciencia de Datos, Backend y QA.
-- Formación: Ingeniería en Informática (DuocUC), mención en Ciencia de Datos.
+- Formación: Ingeniería en Informática, mención en Ciencia de Datos.
 - Experiencia en entornos corporativos y proyectos de seguridad/retail tech.
 - Idiomas: Español (nativo) e Inglés (intermedio-alto).
 
